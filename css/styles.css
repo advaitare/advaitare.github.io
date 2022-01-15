@@ -125,6 +125,10 @@ header {
 .job-description p {
   margin-top: 16px;
 }
+
+.intern {
+  color: black;
+}
 /* Education */
 /* -------------------------------------------- */
 .education {
